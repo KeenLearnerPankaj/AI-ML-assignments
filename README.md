@@ -15,11 +15,11 @@
   
 ## features :
   There are several features such as
-  ### There are separate functions for adding and buying.
-  ### There is while loop for the program to run continuously unless you want it to stop.
-  ### You will get to know about every sale in sales.json
-  ### Customer will get his Billing payment.
-  ### One can purchase more than one product.
+  ### 1.There are separate functions for adding and buying.
+  ### 2.There is while loop for the program to run continuously unless you want it to stop.
+  ### 3.You will get to know about every sale in sales.json
+  ### 4.Customer will get his Billing payment.
+  ### 5.One can purchase more than one product.
   
 ## About me :
   ###  Pankaj B. Sangle
@@ -27,5 +27,5 @@
   ### currently in Third year. 
 
 ## Links :
-  ### Linkedin - https://www.linkedin.com/in/pankaj-sangle-42a483202/
-  ### Instagram - https://www.instagram.com/its_pankaj_dude/
+  ### 1.Linkedin - https://www.linkedin.com/in/pankaj-sangle-42a483202/
+  ### 2.Instagram - https://www.instagram.com/its_pankaj_dude/
