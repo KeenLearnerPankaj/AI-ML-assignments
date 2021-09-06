@@ -23,8 +23,8 @@
   
 ## About me :
   ###  Pankaj B. Sangle
-  ### pursuing IT degree from 'KK Wagh collage of Engineering, Nashik, Maharashtra.
-  ### currently in Third year. 
+  ### Pursuing IT degree from 'KK Wagh collage of Engineering, Nashik, Maharashtra. Currently in Third year.
+    
 
 ## Links :
   ### 1. Linkedin - https://www.linkedin.com/in/pankaj-sangle-42a483202/
