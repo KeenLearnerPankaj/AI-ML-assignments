@@ -1,0 +1,5 @@
+#Total sales
+{"product id": "1004", "quantity-purchased": 2, "amount-paid": 10}
+{"product id": "1005", "quantity-purchased": 2, "amount-paid": 40}
+{"product id": "1026", "quantity-purchased": 3, "amount-paid": 60}
+{"product id": "1026", "quantity-purchased": 1, "amount-paid": 20}
